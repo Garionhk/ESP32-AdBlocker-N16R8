@@ -1,5 +1,7 @@
 # ESP32 AdBlocker (ESP32-S3 N16R8)
 
+📺 Video walkthrough: https://youtu.be/t8ABburJvms
+
 **English** | [繁體中文](README.zh-HK.md)
 
 A Pi-hole-style, network-wide ad blocker on a single ESP32-S3 N16R8 board. Point your
